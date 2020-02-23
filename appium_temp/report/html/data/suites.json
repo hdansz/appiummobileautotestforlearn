@@ -1,0 +1,48 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_wx_demo",
+    "children" : [ {
+      "name" : "TestDemo.test_search_contact[han]",
+      "uid" : "52d8403f34a2b2d6",
+      "parentUid" : "6dcfe4b585aa6ca34138474180b3d58f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575700349078,
+        "stop" : 1575700370210,
+        "duration" : 21132
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestDemo.test_publish_word[hello friend]",
+      "uid" : "74f2be60d2576f18",
+      "parentUid" : "6dcfe4b585aa6ca34138474180b3d58f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575700370998,
+        "stop" : 1575700397024,
+        "duration" : 26026
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "TestDemo.test_publish_word[a apple a day]",
+      "uid" : "3250503829f1d1a9",
+      "parentUid" : "6dcfe4b585aa6ca34138474180b3d58f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1575700397725,
+        "stop" : 1575700423640,
+        "duration" : 25915
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "6dcfe4b585aa6ca34138474180b3d58f"
+  } ]
+}

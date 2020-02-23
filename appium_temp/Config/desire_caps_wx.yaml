@@ -1,0 +1,7 @@
+platformName : 'Android'
+platformVersion : '9'
+appPackage : 'com.tencent.mm'
+appActivity : 'com.tencent.mm.ui.LauncherUI'
+deviceName : '2ac86889'
+noReset : 'True'
+port: 'http://localhost:4723/wd/hub'

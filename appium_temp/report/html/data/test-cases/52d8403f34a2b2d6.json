@@ -1,0 +1,110 @@
+{
+  "uid" : "52d8403f34a2b2d6",
+  "name" : "TestDemo.test_search_contact[han]",
+  "fullName" : "test_wx_demo.TestDemo.test_search_contact[han]",
+  "historyId" : "800a905e24d43a067576f3e6f81773f5",
+  "time" : {
+    "start" : 1575700349078,
+    "stop" : 1575700370210,
+    "duration" : 21132
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "搜索联系人",
+      "time" : {
+        "start" : 1575700363296,
+        "stop" : 1575700370209,
+        "duration" : 6913
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "55193a8111112f2c",
+      "name" : "Captured stderr setup",
+      "source" : "55193a8111112f2c.txt",
+      "type" : "text/plain",
+      "size" : 56
+    }, {
+      "uid" : "889dc6ac166fee72",
+      "name" : "Captured log setup",
+      "source" : "889dc6ac166fee72.txt",
+      "type" : "text/plain",
+      "size" : 50
+    }, {
+      "uid" : "f520941d104b883c",
+      "name" : "Captured stderr call",
+      "source" : "f520941d104b883c.txt",
+      "type" : "text/plain",
+      "size" : 177
+    }, {
+      "uid" : "cb00a904bc175f7a",
+      "name" : "Captured log call",
+      "source" : "cb00a904bc175f7a.txt",
+      "type" : "text/plain",
+      "size" : 173
+    } ],
+    "parameters" : [ ],
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-79JGJ1M"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "7232-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_wx_demo"
+  }, {
+    "name" : "testClass",
+    "value" : "test_wx_demo"
+  }, {
+    "name" : "testMethod",
+    "value" : "TestDemo.test_search_contact[han]"
+  }, {
+    "name" : "package",
+    "value" : "test_wx_demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "52d8403f34a2b2d6.json",
+  "parameterValues" : [ ]
+}

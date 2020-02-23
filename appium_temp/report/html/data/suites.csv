@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Dec 07 14:32:50 CST 2019","Sat Dec 07 14:33:17 CST 2019","26026","","test_wx_demo","","test_wx_demo","TestDemo.test_publish_word[hello friend]","TestDemo.test_publish_word[hello friend]",""
+"passed","Sat Dec 07 14:32:29 CST 2019","Sat Dec 07 14:32:50 CST 2019","21132","","test_wx_demo","","test_wx_demo","TestDemo.test_search_contact[han]","TestDemo.test_search_contact[han]",""
+"passed","Sat Dec 07 14:33:17 CST 2019","Sat Dec 07 14:33:43 CST 2019","25915","","test_wx_demo","","test_wx_demo","TestDemo.test_publish_word[a apple a day]","TestDemo.test_publish_word[a apple a day]",""
