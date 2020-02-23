@@ -4,8 +4,9 @@ import yaml
 
 path=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 file=path+"/Config/desire_caps_wx.yaml"
-f=open(file,"r")
-CAPS=yaml.safe_load(f)
+#f=open(file,"r")
+with open(file,'r') as f:
+    CAPS=yaml.safe_load(f)
 
 def mydriver():
     desired_caps = {}
@@ -17,6 +18,5 @@ def mydriver():
     desired_caps['noReset'] = CAPS['noReset']
     driver = webdriver.Remote(CAPS['port'], desired_caps)
     driver.implicitly_wait(10)
-    f.close()
     return driver
 
