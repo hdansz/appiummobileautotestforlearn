@@ -1,3 +1,0 @@
-searchpage.py               11 DEBUG    点击搜索框
-searchpage.py               13 DEBUG    输入搜索内容
-searchpage.py               15 DEBUG    验证搜索结果

@@ -1,6 +1,0 @@
-fcirclepage.py              23 DEBUG    点击APP的发现tab
-fcirclepage.py              25 DEBUG    点击朋友圈
-fcirclepage.py              28 DEBUG    长按相机入口进入文本编辑器
-fcirclepage.py              30 DEBUG    输入内容：hello friend
-fcirclepage.py              32 DEBUG    点击发表文字
-fcirclepage.py              34 DEBUG    验证发布结果
