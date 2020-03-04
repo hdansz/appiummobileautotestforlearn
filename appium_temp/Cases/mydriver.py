@@ -16,6 +16,8 @@ def mydriver():
     desired_caps['appActivity'] = CAPS['appActivity']
     desired_caps['deviceName'] = CAPS['deviceName']
     desired_caps['noReset'] = CAPS['noReset']
+    desired_caps['skipServerInstallation'] = CAPS['skipServerInstallation']
+    desired_caps['skipDeviceInitialization'] = CAPS['skipDeviceInitialization']
     driver = webdriver.Remote(CAPS['port'], desired_caps)
     driver.implicitly_wait(10)
     return driver
